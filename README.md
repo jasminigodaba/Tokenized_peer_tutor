@@ -1,7 +1,3 @@
-Here's a `README.md` file for your "Tokenized Peer Tutoring" project. This file includes sections for vision, project features, future scope, project structure, and developer details.
-
----
-
 # Tokenized Peer Tutoring
 
 ## Vision
